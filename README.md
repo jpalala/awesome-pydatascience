@@ -13,5 +13,6 @@
 
 ### Tutorials
 
+- https://www.freecodecamp.org/news/python-data-science-course-matplotlib-pandas-numpy/
 - https://realpython.com/tutorials/data-science/
 
